@@ -8,6 +8,7 @@ namespace Snake_Ladder
         {
             Console.WriteLine("Welcome to Snake and Ladder Game");
             GameUC1.Player();
+            GameUC2.Beggin_Game();
             Console.ReadLine();
         }
     }
