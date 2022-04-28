@@ -12,6 +12,8 @@ namespace Snake_Ladder
             GameUC3.StartPlaying();
             GameUC4.MovePosition();
             GameUC5.ExactWinningPosition();
+            GameUC6 die = new GameUC6();
+            die.DiceRole();
             Console.ReadLine();
         }
     }
