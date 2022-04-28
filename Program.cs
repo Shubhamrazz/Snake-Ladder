@@ -10,6 +10,7 @@ namespace Snake_Ladder
             GameUC1.Player();
             GameUC2.Beggin_Game();
             GameUC3.StartPlaying();
+            GameUC4.MovePosition();
             Console.ReadLine();
         }
     }
